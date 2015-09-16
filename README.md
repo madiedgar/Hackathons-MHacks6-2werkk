@@ -3,7 +3,7 @@
 Introducing 2werk! The most efficient way to connect yourself **to** net**works**. Met an interesting individual at a conference and want to collaborate on a future project? -Use 2werk to provide them your Github, Email, and Twitter. Connecting with recruiters? -Provide your Resume, LinkedIn, and Personal Webiste. Met Bae? -Share your Facebook, Instagram, Twitter, and Snapchat to stay tuned into their life. 
 
 ### Installation
-Will be available on the Apple Store soon. Launch Date TBD. 2werk is programmed in Xcode and Swift. 
+Will be available on the Apple Store soon. Launch Date TBD. 2werk is programmed in Xcode with Swift. 
 
 ### Web Interpreter
 The Website version of the application can be found on www.2werk.co
