@@ -16,3 +16,5 @@ You will connect with Facebook or provide your email adress to sign up to begin 
 Once you have signed up and your account is created, you will be able to add your profile picture and any social media account you have as well as upload files (like a resume) you may want to easily distribute.
 
 Some of the social media/connections you may want to include would be LinkedIn, Facebook, Twitter, Instagram, Email, Github, Personal Website, Phone Number, Address, (credit card number... jk don't put that). 
+
+You will be able to save specific "cards" for quick and easy contact sharing.
